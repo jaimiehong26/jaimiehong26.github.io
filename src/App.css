@@ -23,7 +23,7 @@
   transition: transform 5s ease, opacity 5s ease; /* Transition duration set to 5 seconds */
   opacity: 1; /* Initial opacity */
 }
- 
+  
 .App-logo.expanded {
   transform: scale(50); /* Increased scale factor to 50 */
   opacity: 0; /* Set opacity to 0 when expanded */
